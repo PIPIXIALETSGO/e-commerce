@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/product-1-1.webp",
+    "secondImage": "/assets/product-1-2.webp",
+    "productName": "Cozy Plush Dog Bed",
+    "price": "$45.00",
+    "tag": "New"
+  },
+  {
+    "id": 2,
+    "image": "/assets/product-2-1.webp",
+    "secondImage": "/assets/product-2-2.webp",
+    "productName": "Deluxe Cat Tree Tower",
+    "price": "$89.00",
+    "oldPrice": "$120.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 3,
+    "image": "/assets/product-3-1.webp",
+    "secondImage": "/assets/product-3-2.webp",
+    "productName": "Chew-Resistant Rope Toy",
+    "price": "$12.00",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 4,
+    "image": "/assets/product-4-1.webp",
+    "secondImage": "/assets/product-4-2.webp",
+    "productName": "Stainless Steel Cat Bowl",
+    "price": "$18.00",
+    "oldPrice": "$25.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 5,
+    "image": "/assets/product-5-1.webp",
+    "secondImage": "/assets/product-5-2.webp",
+    "productName": "Waterproof Dog Winter Coat",
+    "price": "$39.00",
+    "tag": "New"
+  },
+  {
+    "id": 6,
+    "image": "/assets/product-6-1.webp",
+    "secondImage": "/assets/product-6-2.webp",
+    "productName": "Soft Cat Cave Bed",
+    "price": "$42.00",
+    "tag": "New"
+  },
+  {
+    "id": 7,
+    "image": "/assets/product-7-1.webp",
+    "secondImage": "/assets/product-7-2.webp",
+    "productName": "Slow Feeder Dog Bowl",
+    "price": "$20.00",
+    "oldPrice": "$28.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 8,
+    "image": "/assets/product-8-1.webp",
+    "secondImage": "/assets/product-8-2.webp",
+    "productName": "Interactive Feather Wand",
+    "price": "$15.00",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 9,
+    "image": "/assets/product-9-1.webp",
+    "secondImage": "/assets/product-9-2.webp",
+    "productName": "Reflective Nylon Dog Leash",
+    "price": "$22.00",
+    "tag": "New"
+  },
+  {
+    "id": 10,
+    "image": "/assets/product-10-1.webp",
+    "secondImage": "/assets/product-10-2.webp",
+    "productName": "Portable Cat Travel Carrier",
+    "price": "$55.00",
+    "oldPrice": "$70.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 11,
+    "image": "/assets/product-11-1.webp",
+    "secondImage": "/assets/product-11-2.webp",
+    "productName": "Leather Adjustable Dog Collar",
+    "price": "$30.00",
+    "tag": "New"
+  },
+  {
+    "id": 12,
+    "image": "/assets/product-12-1.webp",
+    "secondImage": "/assets/product-12-2.webp",
+    "productName": "Cardboard Cat Scratcher Lounge",
+    "price": "$25.00",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 13,
+    "image": "/assets/product-13-1.webp",
+    "secondImage": "/assets/product-13-2.webp",
+    "productName": "Gentle Oatmeal Dog Shampoo",
+    "price": "$18.00",
+    "tag": "New"
+  },
+  {
+    "id": 14,
+    "image": "/assets/product-14-1.webp",
+    "secondImage": "/assets/product-14-2.webp",
+    "productName": "Window-Mounted Cat Hammock",
+    "price": "$35.00",
+    "oldPrice": "$45.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 15,
+    "image": "/assets/product-15-1.webp",
+    "secondImage": "/assets/product-15-2.webp",
+    "productName": "Natural Dental Chews (Pack of 6)",
+    "price": "$19.00",
+    "tag": "Best Seller"
+  },
+  {
+    "id": 16,
+    "image": "/assets/product-16-1.webp",
+    "secondImage": "/assets/product-16-2.webp",
+    "productName": "Automatic Cat Water Fountain",
+    "price": "$49.00",
+    "tag": "New"
+  }
+]
