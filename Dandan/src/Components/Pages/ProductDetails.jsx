@@ -89,7 +89,7 @@ function ProductDetails() {
               ))}
             </div>
             <p className="fw-semibold mb-1">Quantity</p>
-            <div className="d-flex align-items gap-3 quantity">
+            <div className="d-flex align-items gap-3 mb-4 quantity">
               <div
                 className="d-flex align-items-center Quantity-box"
                 style={{ maxWidth: "200px" }}
@@ -126,6 +126,61 @@ function ProductDetails() {
             <p>
               <strong>SKU:</strong>501
             </p>
+          </div>
+        </div>
+      </div>
+      <div className="container my-5">
+        <ul
+          className="nav nav-tabs border-0 justify-content-center mb-4"
+          id="productTab"
+          role="tablist"
+        >
+          <li className="nav-item" role="presentation">
+            <button
+              className="nav-link tab active border-0 fw-bold fs-4 text-capitalize"
+              id="description-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#description"
+              type="button"
+            >
+              Description
+            </button>
+          </li>
+          <li className="nav-item" role="presentation">
+            <button
+              className="nav-link tab border-0 fw-bold fs-4 text-capitalize"
+              id="shipping-tab"
+              data-bs-toggle="tab"
+              data-bs-target="#shipping"
+              type="button"
+            >
+              Shipping and Return
+            </button>
+          </li>
+        </ul>
+        <div className="tab-content" id="productTabContent">
+          <div
+            className="tab-pane fade show active"
+            id="description"
+            role="tabpanel"
+          >
+            <p>
+              <strong>For Normal, Oily, Combination Skin Types</strong>
+            </p>
+            <p>hahahahhahahhahahah</p>
+            <h5 className="mt-4">Benefits</h5>
+            <ul className="Benefits-list p-0">
+              <li className="position-relative">kskskkskksks</li>
+              <li className="position-relative">fkfkfkfkkfkfkf</li>
+              <li className="position-relative">dkdkdlslslslsl</li>
+              <li className="position-relative">skskksksksksk</li>
+              <li className="position-relative">fkfkfkfkfkf</li>
+              <li className="position-relative">fjfjfjfjfjfj</li>
+              <li className="position-relative">skskksksksksks</li>
+            </ul>
+          </div>
+          <div className="tab-pane fade" id="shipping" role="tabpanel">
+            <p>ssssssssssssssssssssssssvvsssssssssssssssssssssssss</p>
           </div>
         </div>
       </div>

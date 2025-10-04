@@ -1,0 +1,107 @@
+import React from 'react'
+
+function Footer() {
+  return (
+    <>
+    <div className="footer mt-5 py-5">
+        <div className="container">
+            <div className="row gy-4">
+                <div className="col-lg-8">
+                    <div className="row">
+                        <div className="col-md-4">
+                            <h3 className="mb-3">Company</h3>
+                            <p className="mb-0">Find a nearest location</p>
+                            <p className="mb-4">your. See<strong> Our store</strong></p>
+                            <p className="mb-0"><strong>+391 (0)35 2568 4539</strong></p>
+                            <p>hello@domain.com</p>
+                        </div>
+
+                        <div className="col-md-4">
+                            <h3 className="mb-3">Useful Links</h3>
+                            <ul className="list-unstyled">
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- New Products</a>
+                                </li>
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Best Sellers</a>
+                                </li>
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Bundle & Save</a>
+                                </li>
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Online Gift Card</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                         <div className="col-md-4">
+                            <h3 className="mb-3">Information</h3>
+                            <ul className="list-unstyled">
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Start a return</a>
+                                </li>
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Contact us</a>
+                                </li>
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Shipping FAQ</a>
+                                </li>
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Terms & Conditions</a>
+                                </li>
+                                <li className="mb-2">
+                                    <a href="#" className='text-decoration-none'>- Privacy Policy</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4">
+                    <h3 className="mb-4">Good emails</h3>
+                    <p className="mb-5">Enter your email below to be the first to know about new collections and product launches</p>
+                    <div className="subscribe-box d-flex">
+                        <input type="email" className='form-control' placeholder='Enter your email address' />
+                        <button className="btn">Subscribe</button>
+                    </div>
+                </div>
+            </div>
+            <div className="footer-bottom mt-5">
+                <div className="row align-items-start">
+                    <div className="col-lg-4">
+                        <div className="footer-icon-text d-flex gap-3 justify-content-center justify-content-lg-end">
+                            <p>@ Glowing 2015 | Powered by Shopify</p>
+                            <div className="footer-icons d-flex gap-2">
+                                <i className="ri-instagram-line"></i>
+                                <i className="ri-twitter-x-line"></i>
+                                <i className="ri-facebook-circle-fill"></i>
+                                <i className="ri-youtuebe-fill"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="footer-logo text-center">
+                            <a href="#" className='navbar-brand mx-auto order-0'>
+                                <h2 className="m-0 fw-bold" style={{letterSpacing:'2px'}}>Dandan</h2>
+                            </a>
+                        </div>
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="payment-img mt-4 mt-xl-0 d-flex gap-2 justify-content-center justify-content-lg-end">
+                            <img src="" alt="" className='img-fluid' />
+                            <img src="" alt="" className='img-fluid' />
+                            <img src="" alt="" className='img-fluid' />
+                            <img src="" alt="" className='img-fluid' />
+                            <img src="" alt="" className='img-fluid' />
+                            <img src="" alt="" className='img-fluid' />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    </>
+  )
+}
+
+export default Footer
